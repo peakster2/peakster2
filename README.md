@@ -1,9 +1,11 @@
+   ![](https://komarev.com/ghpvc/?username=Wenaly&color=blue)
+
 ### Hi there 👋
 
 I'm just a programmer c:
 And currently working on Paramorphism.
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Wenaly&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox/blob/master/src/data/themes.ts&theme=darkmode)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Wenaly&theme=darkmode&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
    ![](https://komarev.com/ghpvc/?username=Wenaly&color=blue)
 
