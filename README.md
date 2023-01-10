@@ -3,7 +3,7 @@
 I'm just a programmer c:
 And currently working on Paramorphism.
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox&theme=darkmode)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Wenalyr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox&theme=darkmode)
 
 ![](https://komarev.com/ghpvc/?username=Wenaly&color=blue)
 
