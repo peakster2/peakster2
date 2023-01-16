@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm just a programmer c:
+I'm just a programmer C:
 And currently working on Paramorphism.
 
 <hr>
