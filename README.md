@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 I'm just a programmer C:
-And currently working on Paramorphism.
+And currently working on Ruby
 
 <hr>
 
