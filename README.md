@@ -1,4 +1,4 @@
-   ![](https://komarev.com/ghpvc/?username=Wenaly&color=blue)
+   ![](https://komarev.com/ghpvc/?username=peakster2&color=blue)
 
 ### Hi there 👋
 
@@ -25,8 +25,8 @@ And currently working on Ruby
 
 
 <p align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Wenaly&count_private=true&show_icons=true&theme=default" alt="User stats" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenaly&layout=compact&theme=default" alt="Top languages" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=peakster2&count_private=true&show_icons=true&theme=default" alt="User stats" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peakster2&layout=compact&theme=default" alt="Top languages" />
 </p>
 
 
