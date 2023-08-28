@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 I'm just a programmer C:
-And currently working on Ruby
+And currently working on my music project.
 
 <hr>
 
